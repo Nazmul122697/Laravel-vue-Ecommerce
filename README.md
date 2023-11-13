@@ -27,6 +27,9 @@ module.exports = {
    
 6. **npm run dev**
 
+   **Template install **
+npm install @headlessui/vue @heroicons/vue @tailwindcss/forms
+
 *******************************************
 For vuex install
 1. npm install -s vuex@next
